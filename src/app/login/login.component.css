@@ -1,0 +1,33 @@
+.form {
+  background-color: gainsboro;
+  height: 500px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 20px 20px 20px;
+  position: absolute;
+  right: 450px;
+}
+.ptag {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+label {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+hr {
+  width: 300px;
+}
+button {
+  width: 200px;
+  height: 30px;
+  border-radius: 50px;
+  position: absolute;
+  right: 110px;
+  bottom: 10px;
+  background-color: skyblue;
+}
